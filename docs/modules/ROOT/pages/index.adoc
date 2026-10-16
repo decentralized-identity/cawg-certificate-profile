@@ -22,6 +22,6 @@ include::partial$common/foreword.adoc[]
 
 include::partial$common/toc.adoc[]
 
-(content goes here)
+include::partial$policy.adoc[]
 
 include::partial$version-history.adoc[]
